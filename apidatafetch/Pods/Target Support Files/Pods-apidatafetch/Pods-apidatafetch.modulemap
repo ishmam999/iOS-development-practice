@@ -1,0 +1,6 @@
+framework module Pods_apidatafetch {
+  umbrella header "Pods-apidatafetch-umbrella.h"
+
+  export *
+  module * { export * }
+}
